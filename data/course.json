@@ -1,0 +1,65 @@
+{
+  "term": "Spring",
+  "year": "2011",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Climate Studies"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Atmospheric Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Thermodynamics"
+    ],
+    [
+      "Engineering",
+      "Ocean Engineering",
+      "Hydrodynamics"
+    ]
+  ],
+  "legacy_uid": "7094f8e5-8e4a-4c3f-7f4f-8e754fc370a1",
+  "instructors": {
+    "content": [
+      "d611afa5-56fb-9311-806f-323a785e0dcc",
+      "29bfd0b7-4ff3-a206-5a76-5e22bfc3598b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "2d2cd7a1-f3bc-3a03-a1a8-da4549bc4e8c",
+    "website": "12-811-tropical-meteorology-spring-2011"
+  },
+  "course_title": "Tropical Meteorology",
+  "course_description": "This course describes the large-scale circulation systems of the tropical atmosphere and analyses the dynamics of such systems. Topics include: Radiative-convective equilibrium; the Hadley and walker circulation; monsoons; tropical boundary layers; theory of the response of the tropical atmosphere to localized sea-surface temperature anomalies; intraseasonal oscillations; equatorial waves; El Ni\u00f1o/Southern Oscillation; easterly waves; and tropical cyclones.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.811",
+  "course_image_thumbnail": {
+    "content": "8520060d-7a32-95ea-dc93-1545e7f8aba4",
+    "website": "12-811-tropical-meteorology-spring-2011"
+  },
+  "learning_resource_types": [
+    "Projects",
+    "Lecture Notes"
+  ],
+  "site_uid": "23144b6d-c535-4e48-9bf5-07fe61662e59",
+  "site_short_id": "12.811-spring-2011",
+  "site_url_path": "courses/12-811-tropical-meteorology-spring-2011",
+  "title": "Course Metadata"
+}
