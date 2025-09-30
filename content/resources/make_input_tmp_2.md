@@ -4,6 +4,8 @@ description: New file Upload
 file: /courses/12-811-tropical-meteorology-spring-2011/11ad931d9768f8d095e1167e232904db_make_input_tmp_2.m
 file_size: 3706
 file_type: text/x-objcsrc
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

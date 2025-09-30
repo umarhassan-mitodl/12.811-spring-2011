@@ -4,6 +4,8 @@ description: New file Upload
 file: /courses/12-811-tropical-meteorology-spring-2011/cbb1932744fa07fc9d660d612d057903_spectrum.m
 file_size: 309
 file_type: text/x-objcsrc
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

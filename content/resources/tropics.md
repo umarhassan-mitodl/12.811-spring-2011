@@ -4,6 +4,8 @@ description: New file Upload
 file: /courses/12-811-tropical-meteorology-spring-2011/1c69f5f5f98d6311243f4bb4ea38ff34_tropics.f
 file_size: 13652
 file_type: text/x-fortran
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

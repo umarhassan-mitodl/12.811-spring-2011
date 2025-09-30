@@ -4,6 +4,8 @@ description: New file Upload
 file: /courses/12-811-tropical-meteorology-spring-2011/d5a5a700f48c67b06415b76c6dd7e9ac_radepsi.h
 file_size: 455
 file_type: text/x-chdr
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

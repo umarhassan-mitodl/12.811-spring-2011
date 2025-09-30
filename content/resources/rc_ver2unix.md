@@ -4,6 +4,8 @@ description: ''
 file: /courses/12-811-tropical-meteorology-spring-2011/6a01174e5e82c3d484abf470575ec108_rc_ver2unix.zip
 file_size: 67319
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

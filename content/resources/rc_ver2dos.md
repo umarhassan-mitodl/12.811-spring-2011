@@ -4,6 +4,8 @@ description: New file Upload
 file: /courses/12-811-tropical-meteorology-spring-2011/0958226a4b3c9148b2406cc1512ca03f_rc_ver2dos.exe
 file_size: 753664
 file_type: application/x-msdos-program
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

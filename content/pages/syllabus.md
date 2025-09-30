@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides information on course meeting times, prerequisites,
   assigned readings, lecture topics, and grading.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -23,9 +25,9 @@ _Quasi-balanced Circulations in Oceans and Atmospheres_ ([12.803](/courses/12-80
 Assigned Readings
 -----------------
 
-Paluch, Ilga. "{{% resource_link "6b5b97ac-dbfa-4755-8f6d-f0068307a71a" "The Entrainment Mechanism in Colorado Cumuli" %}}." _Journal of the Atmospheric Science_ 36, no. 12 (1979): 2467–78.
+Paluch, Ilga. "[The Entrainment Mechanism in Colorado Cumuli](http://dx.doi.org/10.1175/1520-0469(1979)036%3C2467:TEMICC%3E2.0.CO;2)." _Journal of the Atmospheric Science_ 36, no. 12 (1979): 2467–78.
 
-Romps, David, and Zhiming Kuang. "{{% resource_link "467eb78d-5eed-4113-9c87-133b9c29925f" "Do Undiluted Convective Plumes Exist in the Upper Tropical Troposphere?" %}}" _Journal of the Atmospheric Science_ 67, no. 2 (2010): 468–84.
+Romps, David, and Zhiming Kuang. "[Do Undiluted Convective Plumes Exist in the Upper Tropical Troposphere?](http://dx.doi.org/10.1175/2009JAS3184.1)" _Journal of the Atmospheric Science_ 67, no. 2 (2010): 468–84.
 
 Topics
 ------
