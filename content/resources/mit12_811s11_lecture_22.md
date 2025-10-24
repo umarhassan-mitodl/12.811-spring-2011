@@ -4,8 +4,6 @@ description: New file Upload
 file: /courses/12-811-tropical-meteorology-spring-2011/fed47d593b0f7cae236dcb86e33fb354_MIT12_811S11_lecture_22.pdf
 file_size: 1329490
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

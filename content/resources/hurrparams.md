@@ -4,8 +4,6 @@ description: New file Upload
 file: /courses/12-811-tropical-meteorology-spring-2011/608b527c28a6e63e91792f9da4a3a556_hurrparams.txt
 file_size: 4426
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

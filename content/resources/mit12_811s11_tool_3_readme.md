@@ -4,8 +4,6 @@ description: New file Upload
 file: /courses/12-811-tropical-meteorology-spring-2011/f4dd176ab66edf77c44921e686ad47aa_MIT12_811S11_tool_3_readme.pdf
 file_size: 610795
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

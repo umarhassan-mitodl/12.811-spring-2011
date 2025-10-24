@@ -3,8 +3,6 @@ content_type: page
 description: This section provides the lecture notes from the Fall 2011 version of
   this class. The notes are organized by chapter. Content from previous versions of
   this class are also included for further study (denoted by an asterisk).
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

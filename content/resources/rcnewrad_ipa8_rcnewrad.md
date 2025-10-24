@@ -4,8 +4,6 @@ description: New file Upload
 file: /courses/12-811-tropical-meteorology-spring-2011/6f3450df569c4e13c7938054ded4bb53_rcnewrad_ipa8_rcnewrad.oo
 file_size: 421072
 file_type: application/x-executable
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

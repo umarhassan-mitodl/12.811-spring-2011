@@ -4,8 +4,6 @@ description: New file Upload
 file: /courses/12-811-tropical-meteorology-spring-2011/2d629667738bfc8a97ddb102599e8efc_YOETHF_2.h
 file_size: 512
 file_type: text/x-chdr
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

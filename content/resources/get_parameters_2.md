@@ -4,8 +4,6 @@ description: New file Upload
 file: /courses/12-811-tropical-meteorology-spring-2011/9613038e8a882a63f564e6ca6a12b3d4_get_parameters_2.m
 file_size: 3448
 file_type: text/x-objcsrc
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

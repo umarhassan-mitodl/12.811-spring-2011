@@ -44,7 +44,6 @@
     "website": "12-811-tropical-meteorology-spring-2011"
   },
   "course_title": "Tropical Meteorology",
-  "hide_download": true,
   "course_description": "This course describes the large-scale circulation systems of the tropical atmosphere and analyses the dynamics of such systems. Topics include: Radiative-convective equilibrium; the Hadley and walker circulation; monsoons; tropical boundary layers; theory of the response of the tropical atmosphere to localized sea-surface temperature anomalies; intraseasonal oscillations; equatorial waves; El Ni\u00f1o/Southern Oscillation; easterly waves; and tropical cyclones.\n",
   "department_numbers": [
     "12"
@@ -55,7 +54,6 @@
     "content": "8520060d-7a32-95ea-dc93-1545e7f8aba4",
     "website": "12-811-tropical-meteorology-spring-2011"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Projects",
     "Lecture Notes"

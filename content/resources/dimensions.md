@@ -4,8 +4,6 @@ description: New file Upload
 file: /courses/12-811-tropical-meteorology-spring-2011/0147169c7dea7dd4eb072dfe25f4e2b8_dimensions.h
 file_size: 559
 file_type: text/x-chdr
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

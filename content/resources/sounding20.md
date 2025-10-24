@@ -4,8 +4,6 @@ description: New file Upload
 file: /courses/12-811-tropical-meteorology-spring-2011/6b0f0e16886f28d8dbec6b9fe26f3062_sounding20.in
 file_size: 62874
 file_type: application/octet-stream
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

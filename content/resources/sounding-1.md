@@ -4,8 +4,6 @@ description: New file Upload
 file: /courses/12-811-tropical-meteorology-spring-2011/aa55293f67cfa6813c79f5c2ff1be7a2_sounding.std
 file_size: 3306
 file_type: application/vnd.sun.xml.draw.template
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

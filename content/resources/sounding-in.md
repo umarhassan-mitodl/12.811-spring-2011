@@ -4,8 +4,6 @@ description: New file Upload
 file: /courses/12-811-tropical-meteorology-spring-2011/43235b55ba5de4475baf8fd11583a890_sounding.in.matlab
 file_size: 3306
 file_type: application/octet-stream
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
