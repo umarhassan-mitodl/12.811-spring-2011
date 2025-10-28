@@ -23,9 +23,9 @@ _Quasi-balanced Circulations in Oceans and Atmospheres_ ([12.803](/courses/12-80
 Assigned Readings
 -----------------
 
-Paluch, Ilga. "[The Entrainment Mechanism in Colorado Cumuli](http://dx.doi.org/10.1175/1520-0469(1979)036%3C2467:TEMICC%3E2.0.CO;2)." _Journal of the Atmospheric Science_ 36, no. 12 (1979): 2467–78.
+Paluch, Ilga. "{{% resource_link "dab0d9f3-fda9-4e06-ae7c-c1620bb4266a" "The Entrainment Mechanism in Colorado Cumuli" %}}." _Journal of the Atmospheric Science_ 36, no. 12 (1979): 2467–78.
 
-Romps, David, and Zhiming Kuang. "[Do Undiluted Convective Plumes Exist in the Upper Tropical Troposphere?](http://dx.doi.org/10.1175/2009JAS3184.1)" _Journal of the Atmospheric Science_ 67, no. 2 (2010): 468–84.
+Romps, David, and Zhiming Kuang. "{{% resource_link "410a0716-0e71-4ca7-a1be-557023fda066" "Do Undiluted Convective Plumes Exist in the Upper Tropical Troposphere?" %}}" _Journal of the Atmospheric Science_ 67, no. 2 (2010): 468–84.
 
 Topics
 ------
